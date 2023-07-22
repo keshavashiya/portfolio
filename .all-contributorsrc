@@ -8,10 +8,10 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "SterbenVD",
-      "name": "Vishal Vijay Devadiga",
+      "login": "keshavashiya",
+      "name": "Keshav Ashiya",
       "avatar_url": "https://avatars.githubusercontent.com/u/90999906?v=4",
-      "profile": "https://github.com/SterbenVD",
+      "profile": "https://github.com/keshavashiya",
       "contributions": [
         "code"
       ]
@@ -21,6 +21,6 @@
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "astro-portfolio-template",
-  "projectOwner": "MaeWolff"
+  "projectName": "portfolio",
+  "projectOwner": "keshavashiya"
 }
