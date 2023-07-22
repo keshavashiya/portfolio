@@ -11,22 +11,22 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
+  mail: "keshavashiya@outlook.com",
+  title: "Hi, I’m Keshav 👋",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "just another one in million trying to understand 01101011 better than any thing. I was an Engineering student of Jodhpur Institute of Engineering and Technology, Jodhpur and a Software Engineer @ Akrity Computing Pvt Ltd building applications for various devices with some awesome people. As a Software Engineer, I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create beautiful products. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences. Although I'm mostly in front of my Laptop. While I'm not working, I’m probably watching a television series or a movie, listening to music, watching random stuff on youtube, writting some hip-hop stuff are on my bucket list.",
   socials: [
     {
       label: "Twiiter",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://twitter.com/keshavashiya",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "Instagram",
+      link: "https://instagram.com/keshavashiya",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/keshavashiya",
     },
   ],
 };
